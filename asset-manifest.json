@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/danielcrumpler.github.io/static/css/main.982c3fed.chunk.css",
-    "main.js": "/danielcrumpler.github.io/static/js/main.d63cd9f2.chunk.js",
-    "main.js.map": "/danielcrumpler.github.io/static/js/main.d63cd9f2.chunk.js.map",
-    "runtime-main.js": "/danielcrumpler.github.io/static/js/runtime-main.b5455840.js",
-    "runtime-main.js.map": "/danielcrumpler.github.io/static/js/runtime-main.b5455840.js.map",
-    "static/js/2.b5850383.chunk.js": "/danielcrumpler.github.io/static/js/2.b5850383.chunk.js",
-    "static/js/2.b5850383.chunk.js.map": "/danielcrumpler.github.io/static/js/2.b5850383.chunk.js.map",
-    "static/js/3.3fbda539.chunk.js": "/danielcrumpler.github.io/static/js/3.3fbda539.chunk.js",
-    "static/js/3.3fbda539.chunk.js.map": "/danielcrumpler.github.io/static/js/3.3fbda539.chunk.js.map",
-    "index.html": "/danielcrumpler.github.io/index.html",
-    "static/css/main.982c3fed.chunk.css.map": "/danielcrumpler.github.io/static/css/main.982c3fed.chunk.css.map",
-    "static/js/2.b5850383.chunk.js.LICENSE.txt": "/danielcrumpler.github.io/static/js/2.b5850383.chunk.js.LICENSE.txt"
+    "main.css": "/1/static/css/main.982c3fed.chunk.css",
+    "main.js": "/1/static/js/main.d63cd9f2.chunk.js",
+    "main.js.map": "/1/static/js/main.d63cd9f2.chunk.js.map",
+    "runtime-main.js": "/1/static/js/runtime-main.422971f5.js",
+    "runtime-main.js.map": "/1/static/js/runtime-main.422971f5.js.map",
+    "static/js/2.b5850383.chunk.js": "/1/static/js/2.b5850383.chunk.js",
+    "static/js/2.b5850383.chunk.js.map": "/1/static/js/2.b5850383.chunk.js.map",
+    "static/js/3.3fbda539.chunk.js": "/1/static/js/3.3fbda539.chunk.js",
+    "static/js/3.3fbda539.chunk.js.map": "/1/static/js/3.3fbda539.chunk.js.map",
+    "index.html": "/1/index.html",
+    "static/css/main.982c3fed.chunk.css.map": "/1/static/css/main.982c3fed.chunk.css.map",
+    "static/js/2.b5850383.chunk.js.LICENSE.txt": "/1/static/js/2.b5850383.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5455840.js",
+    "static/js/runtime-main.422971f5.js",
     "static/js/2.b5850383.chunk.js",
     "static/css/main.982c3fed.chunk.css",
     "static/js/main.d63cd9f2.chunk.js"
